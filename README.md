@@ -39,7 +39,10 @@
         5. 머신러닝/딥러닝 - Scikit-Learn(가장 간단한 머신러닝), MS CNTK, Theano, Keras(최초의 딥러닝), TensorFlow(제일유명, Keras포함), Pytorch(페이스북!)
 
 - 빅데이터 학습
-    - 실습자료, 파이썬 기본리뷰, 빅데이터 분석 기초학습 [NoteBook]()
+    - 실습자료, 파이썬 기본리뷰, 빅데이터 분석 기초학습 
+    - [NoteBook](넘파이)
+    - 판다스
+    
 
 ## 2일차
 
