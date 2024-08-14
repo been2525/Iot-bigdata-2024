@@ -121,6 +121,10 @@
     - [YOLOv8](https://github.com/been2525/Iot-bigdata-2024/blob/main/day8/dba13_object_detection.ipynb)
 
     <img src="" width="700">
+
+https://github.com/user-attachments/assets/dfedc9fb-977c-4312-b1cb-21e8d17a8d42
+
+
         
 ## 9일차
 - 머신러닝, 딥러닝 개인클로닝
