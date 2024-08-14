@@ -92,16 +92,51 @@
     - 머신러닝, 딥러닝이 예측값의 정확도가 훨씬 높기 때문에 사용
 ## 4일차
 - 머신러닝, 딥러닝
-    - [개념]()
-    - [파이토치기본]()
-    - [회귀분석]()
-
+    - 인공지능 개념 학습
+    - 파이토치 기본설명과 CPU/GPU 라이브러리 설치
+    - [개념](https://github.com/been2525/Iot-bigdata-2024/blob/main/day3/dba08_ml_dl_concept.ipynb)
+    - [파이토치기본](https://github.com/been2525/Iot-bigdata-2024/blob/main/day3/dba09_pytorch_start.ipynb)
+    
 ## 5일차
+- 머신러닝, 딥러닝
+    - [파이토치기본](https://github.com/been2525/Iot-bigdata-2024/blob/main/day5/dba10_pytorch_basic.ipynb)
+    - [회귀분석](https://github.com/been2525/Iot-bigdata-2024/blob/main/day5/dba11_linear_regression.ipynb)
 
 ## 6일차
+- 머신러닝, 딥러닝
+    - 타이타닉 생존자 예측(계속)
+    - 사이킷런(로지스틱), 파이토치 생존자 예측 비교
+    - [ML회귀분석](https://github.com/been2525/Iot-bigdata-2024/blob/main/day5/dba11_linear_regression.ipynb)
 
 ## 7일차
+- 머신러닝, 딥러닝
+    - CNN(Convolutional NN) 
+    - [이미지분류](https://github.com/been2525/Iot-bigdata-2024/blob/main/day7/dba12_image_class.ipynb)
+
 
 ## 8일차
-
+- 머신러닝, 딥러닝
+    - 객체탐지(Object Detection)
+    - OpenCV, YOLOv8
+    - [YOLOv8](https://github.com/been2525/Iot-bigdata-2024/blob/main/day8/dba13_object_detection.ipynb)
+        
 ## 9일차
+- 머신러닝, 딥러닝 개인클로닝
+    - 예제 리포지토리 참조, Cloning
+
+## Furthur
+1. 기초
+    1. 역전파
+    2. 데이터로더
+2. 지도학습
+    1. 그 외 회귀
+    2. 다층 신경망
+    3. 합성곱 신경망
+3. 비지도학습
+    1. 오토인코더
+    2. K평균
+4. 시각화
+5. 성능향상
+
+
+
